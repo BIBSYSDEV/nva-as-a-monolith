@@ -1,0 +1,81 @@
+[submodule "modules/nva-publication-api"]
+	path = modules/nva-publication-api
+	url = https://github.com/BIBSYSDEV/nva-publication-api.git
+[submodule "modules/nva-commons"]
+	path = modules/nva-commons
+	url = https://github.com/BIBSYSDEV/nva-commons.git
+[submodule "modules/nva-nvi"]
+	path = modules/nva-nvi
+	url = https://github.com/BIBSYSDEV/nva-nvi.git
+[submodule "modules/nva-publication-channels-java"]
+	path = modules/nva-publication-channels-java
+	url = https://github.com/BIBSYSDEV/nva-publication-channels-java.git
+[submodule "modules/nva-identity-service"]
+	path = modules/nva-identity-service
+	url = https://github.com/BIBSYSDEV/nva-identity-service.git
+[submodule "modules/nva-search-api"]
+	path = modules/nva-search-api
+	url = https://github.com/BIBSYSDEV/nva-search-api.git
+[submodule "modules/nva-person-preferences"]
+	path = modules/nva-person-preferences
+	url = https://github.com/BIBSYSDEV/nva-person-preferences.git
+[submodule "modules/nva-cristin-service"]
+	path = modules/nva-cristin-service
+	url = https://github.com/BIBSYSDEV/nva-cristin-service.git
+[submodule "modules/nva-data-report-api"]
+	path = modules/nva-data-report-api
+	url = https://github.com/BIBSYSDEV/nva-data-report-api.git
+[submodule "modules/nva-doi-registrar-client"]
+	path = modules/nva-doi-registrar-client
+	url = https://github.com/BIBSYSDEV/nva-doi-registrar-client.git
+[submodule "modules/nva-doi-partner-data"]
+	path = modules/nva-doi-partner-data
+	url = https://github.com/BIBSYSDEV/nva-doi-partner-data.git
+[submodule "modules/nva-orcid-client"]
+	path = modules/nva-orcid-client
+	url = https://github.com/BIBSYSDEV/nva-orcid-client.git
+[submodule "modules/nva-monitoring"]
+	path = modules/nva-monitoring
+	url = https://github.com/BIBSYSDEV/nva-monitoring.git
+[submodule "modules/nva-fetch-doi"]
+	path = modules/nva-fetch-doi
+	url = https://github.com/BIBSYSDEV/nva-fetch-doi.git
+[submodule "modules/nva-verified-funding-sources"]
+	path = modules/nva-verified-funding-sources
+	url = https://github.com/BIBSYSDEV/nva-verified-funding-sources.git
+[submodule "modules/nva-language-java"]
+	path = modules/nva-language-java
+	url = https://github.com/BIBSYSDEV/nva-language-java.git
+[submodule "modules/nva-handle-service"]
+	path = modules/nva-handle-service
+	url = https://github.com/BIBSYSDEV/nva-handle-service.git
+[submodule "modules/nva-swagger-generator"]
+	path = modules/nva-swagger-generator
+	url = https://github.com/BIBSYSDEV/nva-swagger-generator.git
+[submodule "modules/NVA-Frontend"]
+	path = modules/NVA-Frontend
+	url = https://github.com/BIBSYSDEV/NVA-Frontend.git
+[submodule "modules/nva-language"]
+	path = modules/nva-language
+	url = https://github.com/BIBSYSDEV/nva-language.git
+[submodule "modules/nva-language-js"]
+	path = modules/nva-language-js
+	url = https://github.com/BIBSYSDEV/nva-language-js.git
+[submodule "modules/nva-github-workflows"]
+	path = modules/nva-github-workflows
+	url = https://github.com/BIBSYSDEV/nva-github-workflows.git
+[submodule "modules/nva-common-resources"]
+	path = modules/nva-common-resources
+	url = https://github.com/BIBSYSDEV/nva-common-resources.git
+[submodule "modules/nva-backups"]
+	path = modules/nva-backups
+	url = https://github.com/BIBSYSDEV/nva-backups.git
+[submodule "modules/nva-api-documentation"]
+	path = modules/nva-api-documentation
+	url = https://github.com/BIBSYSDEV/nva-api-documentation.git
+[submodule "modules/nva-gradle-template"]
+	path = modules/nva-gradle-template
+	url = https://github.com/BIBSYSDEV/nva-gradle-template.git
+[submodule "modules/nva-api-integration-test"]
+	path = modules/nva-api-integration-test
+	url = https://github.com/BIBSYSDEV/nva-api-integration-test.git
