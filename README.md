@@ -43,7 +43,7 @@ This repo does not contain any code of its own — it exists to give a single ch
 Clone with all submodules populated in one step:
 
 ```bash
-git clone --recurse-submodules <this-repo-url>
+git clone --recurse-submodules git@github.com:BIBSYSDEV/nva-as-a-monolith.git
 ```
 
 If you've already cloned without that flag:
