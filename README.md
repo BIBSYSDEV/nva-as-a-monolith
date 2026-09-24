@@ -6,37 +6,35 @@ This repo does not contain any code of its own — it exists to give a single ch
 
 ## Included submodules
 
-| Repo | Path | Source |
-|---|---|---|
-| nva-publication-api | `modules/nva-publication-api` | https://github.com/BIBSYSDEV/nva-publication-api |
-| nva-commons | `modules/nva-commons` | https://github.com/BIBSYSDEV/nva-commons |
-| nva-nvi | `modules/nva-nvi` | https://github.com/BIBSYSDEV/nva-nvi |
-| nva-publication-channels-java | `modules/nva-publication-channels-java` | https://github.com/BIBSYSDEV/nva-publication-channels-java |
-| nva-identity-service | `modules/nva-identity-service` | https://github.com/BIBSYSDEV/nva-identity-service |
-| nva-search-api | `modules/nva-search-api` | https://github.com/BIBSYSDEV/nva-search-api |
-| nva-person-preferences | `modules/nva-person-preferences` | https://github.com/BIBSYSDEV/nva-person-preferences |
-| nva-cristin-service | `modules/nva-cristin-service` | https://github.com/BIBSYSDEV/nva-cristin-service |
-| nva-data-report-api | `modules/nva-data-report-api` | https://github.com/BIBSYSDEV/nva-data-report-api |
-| nva-doi-registrar-client | `modules/nva-doi-registrar-client` | https://github.com/BIBSYSDEV/nva-doi-registrar-client |
-| nva-doi-partner-data | `modules/nva-doi-partner-data` | https://github.com/BIBSYSDEV/nva-doi-partner-data |
-| nva-orcid-client | `modules/nva-orcid-client` | https://github.com/BIBSYSDEV/nva-orcid-client |
-| nva-monitoring | `modules/nva-monitoring` | https://github.com/BIBSYSDEV/nva-monitoring |
-| nva-fetch-doi | `modules/nva-fetch-doi` | https://github.com/BIBSYSDEV/nva-fetch-doi |
-| nva-verified-funding-sources | `modules/nva-verified-funding-sources` | https://github.com/BIBSYSDEV/nva-verified-funding-sources |
-| nva-language-java | `modules/nva-language-java` | https://github.com/BIBSYSDEV/nva-language-java |
-| nva-handle-service | `modules/nva-handle-service` | https://github.com/BIBSYSDEV/nva-handle-service |
-| nva-swagger-generator | `modules/nva-swagger-generator` | https://github.com/BIBSYSDEV/nva-swagger-generator |
-| NVA-Frontend | `modules/NVA-Frontend` | https://github.com/BIBSYSDEV/NVA-Frontend |
-| nva-language | `modules/nva-language` | https://github.com/BIBSYSDEV/nva-language |
-| nva-language-js | `modules/nva-language-js` | https://github.com/BIBSYSDEV/nva-language-js |
-| nva-github-workflows | `modules/nva-github-workflows` | https://github.com/BIBSYSDEV/nva-github-workflows |
-| nva-common-resources | `modules/nva-common-resources` | https://github.com/BIBSYSDEV/nva-common-resources |
-| nva-backups | `modules/nva-backups` | https://github.com/BIBSYSDEV/nva-backups |
-| nva-api-documentation | `modules/nva-api-documentation` | https://github.com/BIBSYSDEV/nva-api-documentation |
-| nva-gradle-template | `modules/nva-gradle-template` | https://github.com/BIBSYSDEV/nva-gradle-template |
-| nva-api-integration-test | `modules/nva-api-integration-test` | https://github.com/BIBSYSDEV/nva-api-integration-test |
+- [nva-api-documentation](https://github.com/BIBSYSDEV/nva-api-documentation)
+- [nva-api-integration-test](https://github.com/BIBSYSDEV/nva-api-integration-test)
+- [nva-backups](https://github.com/BIBSYSDEV/nva-backups)
+- [nva-common-resources](https://github.com/BIBSYSDEV/nva-common-resources)
+- [nva-commons](https://github.com/BIBSYSDEV/nva-commons)
+- [nva-cristin-service](https://github.com/BIBSYSDEV/nva-cristin-service)
+- [nva-data-report-api](https://github.com/BIBSYSDEV/nva-data-report-api)
+- [nva-doi-partner-data](https://github.com/BIBSYSDEV/nva-doi-partner-data)
+- [nva-doi-registrar-client](https://github.com/BIBSYSDEV/nva-doi-registrar-client)
+- [nva-fetch-doi](https://github.com/BIBSYSDEV/nva-fetch-doi)
+- [NVA-Frontend](https://github.com/BIBSYSDEV/NVA-Frontend)
+- [nva-github-workflows](https://github.com/BIBSYSDEV/nva-github-workflows)
+- [nva-gradle-template](https://github.com/BIBSYSDEV/nva-gradle-template)
+- [nva-handle-service](https://github.com/BIBSYSDEV/nva-handle-service)
+- [nva-identity-service](https://github.com/BIBSYSDEV/nva-identity-service)
+- [nva-language](https://github.com/BIBSYSDEV/nva-language)
+- [nva-language-java](https://github.com/BIBSYSDEV/nva-language-java)
+- [nva-language-js](https://github.com/BIBSYSDEV/nva-language-js)
+- [nva-monitoring](https://github.com/BIBSYSDEV/nva-monitoring)
+- [nva-nvi](https://github.com/BIBSYSDEV/nva-nvi)
+- [nva-orcid-client](https://github.com/BIBSYSDEV/nva-orcid-client)
+- [nva-person-preferences](https://github.com/BIBSYSDEV/nva-person-preferences)
+- [nva-publication-api](https://github.com/BIBSYSDEV/nva-publication-api)
+- [nva-publication-channels-java](https://github.com/BIBSYSDEV/nva-publication-channels-java)
+- [nva-search-api](https://github.com/BIBSYSDEV/nva-search-api)
+- [nva-swagger-generator](https://github.com/BIBSYSDEV/nva-swagger-generator)
+- [nva-verified-funding-sources](https://github.com/BIBSYSDEV/nva-verified-funding-sources)
 
-> **Note:** There is also an `NVA-infrastructure` repo in the BIBSYSDEV org (https://github.com/BIBSYSDEV/NVA-infrastructure), but it is **not included** as a submodule here because it is a private repo.
+> **Note:** There is also an [NVA-infrastructure](https://github.com/BIBSYSDEV/NVA-infrastructure) repo, but it is **not included** as a submodule here because it is a private repo.
 
 ## Cloning
 
